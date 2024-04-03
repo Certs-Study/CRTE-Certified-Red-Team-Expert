@@ -20,6 +20,8 @@
 ## Domain Privilege Escalation
 
 * [Description](domain-privilege-escalation/description.md)
+* [LAPS](domain-privilege-escalation/laps.md)
+* [RBCD -](domain-privilege-escalation/rbcd.md)
 
 ## Lateral Movement
 
