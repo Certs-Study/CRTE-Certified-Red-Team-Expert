@@ -33,6 +33,10 @@
 ## Domain Dominance & Persistence
 
 * [Description](domain-dominance-and-persistence/description.md)
+* [Silver Ticket](domain-dominance-and-persistence/silver-ticket.md)
+* [Golden Ticket](domain-dominance-and-persistence/golden-ticket.md)
+* [Skeleton Key](domain-dominance-and-persistence/skeleton-key.md)
+* [Diamond Ticket](domain-dominance-and-persistence/diamond-ticket.md)
 
 ## Cross Domain Attacks
 
