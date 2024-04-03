@@ -34,10 +34,15 @@
 ## Cross Domain Attacks
 
 * [Description](cross-domain-attacks/description.md)
+* [🟢 Shadow Credentials](cross-domain-attacks/shadow-credentials.md)
+* [🟢 AD CS](cross-domain-attacks/ad-cs.md)
 
 ## Cross Forest Attacks
 
 * [Description](cross-forest-attacks/description.md)
+* [🟢 Kerberoast](cross-forest-attacks/kerberoast.md)
+* [🟢 SID Abuse](cross-forest-attacks/sid-abuse.md)
+* [🟢 AbusingPAM Trust](cross-forest-attacks/abusingpam-trust.md)
 
 ## Defenses
 
