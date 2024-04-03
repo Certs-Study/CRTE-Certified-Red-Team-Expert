@@ -4,6 +4,10 @@
 
 Cross-domain attacks in AD CS exploit vulnerabilities in the configuration or implementation of Active Directory Certificate Services. AD CS is used to manage certificates for network security, including the authentication of users, computers, and services.&#x20;
 
+
+
+{% @mailchimp/mailchimpSubscribe %}
+
 The attacks aim to escalate privileges across domain boundaries, potentially allowing an attacker to gain unauthorized access to resources or perform actions with elevated privileges.
 
 **Key Points:**

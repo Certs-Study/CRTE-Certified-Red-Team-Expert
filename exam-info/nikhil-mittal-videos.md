@@ -11,6 +11,8 @@ description: >-
 
 He has spoken/trained at conferences like DEF CON, BlackHat, BruCON, and more.&#x20;
 
+{% @mailchimp/mailchimpSubscribe %}
+
 He is the founder of Altered Security - a company focusing on hands-on enterprise security learning.
 
 {% embed url="https://www.alteredsecurity.com/" %}

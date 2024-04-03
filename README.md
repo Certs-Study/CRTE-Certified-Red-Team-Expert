@@ -8,6 +8,8 @@
 
 {% embed url="https://www.alteredsecurity.com/redteamlab" %}
 
+{% @mailchimp/mailchimpSubscribe %}
+
 ### What will you Learn?
 
 The Windows Red Team Lab enables you to:

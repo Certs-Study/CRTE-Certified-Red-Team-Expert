@@ -4,6 +4,10 @@
 
 Shadow credentials refer to authentication methods or credentials that are not directly managed or visible through the primary security systems in an organization. These can arise from various scenarios such as legacy systems, improperly decommissioned accounts, or unauthorized user-created access points.
 
+
+
+{% @mailchimp/mailchimpSubscribe %}
+
 **Key Features:**
 
 * **Hidden Access Points:** These credentials exist outside the purview of standard security protocols, making them hard to detect and manage.

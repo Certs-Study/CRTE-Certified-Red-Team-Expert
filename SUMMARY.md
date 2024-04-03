@@ -1,23 +1,26 @@
 # Table of contents
 
 * [Certified Red Team Expert (CRTE)](README.md)
-* [Course Content](course-content.md)
-* [Nikhil Mittal Videos](nikhil-mittal-videos.md)
-* [Reviews and Notes](reviews-and-notes.md)
 
-## Active Directory Enumeration
+## Exam Info
+
+* [Reviews and Notes](exam-info/reviews-and-notes.md)
+* [Nikhil Mittal Videos](exam-info/nikhil-mittal-videos.md)
+* [Course Content](exam-info/course-content.md)
+
+## 1️⃣ Active Directory Enumeration
 
 * [Objectives Description](active-directory-enumeration/objectives-description.md)
 
-## Local Privilege Escalation
+## 2️⃣ Local Privilege Escalation
 
 * [Description](local-privilege-escalation/description.md)
 
-## Offensive .NET and PowerShell Tradecraft
+## 3️⃣ Offensive .NET and PowerShell Tradecraft
 
 * [Description](offensive-.net-and-powershell-tradecraft/description.md)
 
-## Domain Privilege Escalation
+## 4️⃣ Domain Privilege Escalation
 
 * [Description](domain-privilege-escalation/description.md)
 * [LAPS](domain-privilege-escalation/laps.md)
@@ -33,7 +36,7 @@
 
 ## Cross Domain Attacks
 
-* [Description](cross-domain-attacks/description.md)
+* [✅ Description](cross-domain-attacks/description.md)
 * [🟢 Shadow Credentials](cross-domain-attacks/shadow-credentials.md)
 * [🟢 AD CS](cross-domain-attacks/ad-cs.md)
 
